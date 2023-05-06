@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Salones</string>
+    <string name="title_name">Salones Disponibles ESIME\nCulhuacan</string>
+    <string name="holder_lbl_actual_date">%s - %s</string>
+    <string name="lbl_edificio_1">Edificio 1</string>
+    <string name="lbl_edificio_2">Edificio 2</string>
+    <string name="lbl_edificio_3">Edificio 3</string>
+    <string name="rcv_lbl_no_salon">Salon: %s</string>
+    <string name="lbl_ayuda">Pestaña de ayuda</string>
+    <string name="lbl_ay_salon">Salón: 3214</string>
+    <string name="lbl_ay_edificio">Edificio: 3</string>
+    <string name="lbl_ay_piso">Piso: 2</string>
+    <string name="lbl_ay_no_salon">Número de salón: 14</string>
+    <string name="btn_close_popup">Cerrar</string>
+</resources>
